@@ -1,0 +1,16 @@
+export type _Icon =
+  | "Activity"
+  | "AngleLeft"
+  | "Bell"
+  | "Blog"
+  | "Crown"
+  | "EllipsisVertical"
+  | "Home"
+  | "Message"
+  | "Moon"
+  | "PowerOff"
+  | "Search"
+  | "ShoppingBag"
+  | "Star"
+  | "Sun"
+  | "User";
